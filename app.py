@@ -66,8 +66,8 @@ async def get_garena_data(eat_token: str):
                 "open_id": open_id,
                 "access_token": token_value,
                 "region": region,
-                "credit": "Telegram : @Flexbasei",
-                "Power By": "Telegram : @spideerio_yt"
+                "credit": "Telegram : @Parrahex",
+                "Power By": "Telegram : @CodingWithNexu"
             }
 
     except Exception as e:
